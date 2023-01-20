@@ -1,6 +1,5 @@
+<br>
 <img src="https://user-images.githubusercontent.com/78466780/213652916-5df85e69-d76a-459b-9452-7d0584e7e55b.png" alt="Gokkan" width="160px">
-
-***
 
 - 빈티지 가구를 경매를 통해 사고, 팔 수 있는 서비스입니다.
 
@@ -8,20 +7,16 @@
 
 ## 📅 프로젝트 기간
 
-***
-
 - 2022.12.05 ~ 2023.01.22
 
  <br>
 
 ## 🎎 팀원 소개
 
-***
 <h3>FrontEnd</h3>
 
 - [김리안](https://github.com/lianKim)
 - [한규빈](https://github.com/kyubhinhan)
-
 
 <h3>BackEnd</h3>
 
@@ -32,7 +27,6 @@
 
 ## 🛠️ 기술 스택
 
-***
 <section>
     <h3>FrontEnd</h3>
 <div>
@@ -62,21 +56,15 @@
 
 ## 📌 구현기능
 
-***
-
 - 뭐시기 뭐시기..
 
 <br>
 
 ## 🖼️ 구성도
 
-***
-
 - 사진
 
 <br>
-
-***
 
 ### 📗 [API 명세서](http://3.38.59.40:8080/swagger-ui/index.html#/)
 
@@ -86,4 +74,3 @@
 
 ### 🗃️ [ERD](https://www.erdcloud.com/d/R2FKkcDcANvsk5HQC)
 
-***
