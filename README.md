@@ -1,5 +1,6 @@
 <br>
-<img src="https://user-images.githubusercontent.com/78466780/213652916-5df85e69-d76a-459b-9452-7d0584e7e55b.png" alt="Gokkan" width="160px">
+
+# <img src="https://user-images.githubusercontent.com/78466780/213652916-5df85e69-d76a-459b-9452-7d0584e7e55b.png" alt="Gokkan" width="160px">
 
 - 빈티지 가구를 경매를 통해 사고, 팔 수 있는 서비스입니다.
 
