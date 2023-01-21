@@ -33,8 +33,12 @@
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?&style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Typescript-3178C6?&style=flat-square&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Styled Component-DB7093?&style=flat-square&logo=styledcomponents&logoColor=white">
+    <img src="https://img.shields.io/badge/Jotai-lightgrey?&style=flat-square&logo=jotai&logoColor=white">
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?&style=flat-square&logo=githubactions&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?&style=flat-square&logo=amazons3&logoColor=white">
 </div>
     <h3>BackEnd</h3>
 <div>
