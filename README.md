@@ -69,7 +69,8 @@
 
 ## 🖼️ 구성도
 <h3>FrontEnd</h3>
-
+<img src="https://user-images.githubusercontent.com/108394338/214552512-6b476fdb-0c0b-49ef-9776-0f56f7dcb2e0.png" />
+<br />
 <h3>BackEnd</h3>
 <img src="https://user-images.githubusercontent.com/78466780/214516810-64c2ad97-18eb-42cb-a093-7ce072703710.jpg">
 <br>
