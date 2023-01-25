@@ -63,8 +63,10 @@
 <br>
 
 ## 🖼️ 구성도
+<h3>FrontEnd</h3>
 
-- 사진
+<h3>BackEnd</h3>
+![백엔드 구성도](https://user-images.githubusercontent.com/78466780/214516810-64c2ad97-18eb-42cb-a093-7ce072703710.jpg)
 
 <br>
 
