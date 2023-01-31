@@ -1,0 +1,23 @@
+spring:
+  jpa:
+    defer-datasource-initialization: true
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    properties:
+      hibernate:
+        format_sql: true
+        show_sql: true
+
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 200MB
+
+springdoc:
+  swagger-ui:
+    path: /api-doc.html
+  version: 'v1'
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+  model-and-view-allowed: true

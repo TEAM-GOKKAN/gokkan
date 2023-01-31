@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>gokkan</title>
+    <script
+      src="https://t1.kakaocdn.net/kakao_js_sdk/2.0.1/kakao.min.js"
+      integrity="sha384-eKjgHJ9+vwU/FCSUG3nV1RKFolUXLsc6nLQ2R1tD0t4YFPCvRmkcF8saIfOZNWf/"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      // SDK를 초기화 합니다. 사용할 앱의 JavaScript 키를 설정해야 합니다.
+      Kakao.init('d3d7ea3719f90484541382babbb6ea7f');
+    </script>
+    <!-- jQuery -->
+    <script
+      type="text/javascript"
+      src="https://code.jquery.com/jquery-1.12.4.min.js"
+    ></script>
+    <!-- iamport.payment.js -->
+    <script
+      type="text/javascript"
+      src="https://cdn.iamport.kr/js/iamport.payment-1.2.0.js"
+    ></script>
+    <script>
+      var global = window;
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

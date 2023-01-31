@@ -1,0 +1,14 @@
+spring:
+  config:
+    import:
+      - classpath:security.yml
+      - classpath:awsS3.yml
+      - classpath:database.yml
+
+springdoc:
+  swagger-ui:
+    path: /api-doc.html
+  version: 'v1'
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
+  model-and-view-allowed: true

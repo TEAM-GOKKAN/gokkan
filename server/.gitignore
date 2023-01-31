@@ -1,0 +1,50 @@
+
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+/src/main/resources/application-dev.yml
+/src/main/resources/awsS3.yml
+/src/main/resources/database.yml
+/src/main/resources/security.yml
+/src/main/resources/oauth2.yml
+
+/src/test/resources/application-dev.yml
+/src/test/resources/awsS3.yml
+/src/test/resources/database.yml
+/src/test/resources/security.yml
+/src/test/resources/oauth2.yml
+/dbConfig/**
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
