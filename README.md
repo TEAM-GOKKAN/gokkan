@@ -85,6 +85,7 @@
 <h3> 시연영상 </h3>
 
 [![곳간 구현기능](http://img.youtube.com/vi/9O4lv17Ql7E/0.jpg)](https://youtube.com/watch?v=9O4lv17Ql7E&si=EnSIkaIECMiOmarE)
+- 설명란 타임라인 참조해주세요
 <br>
 
 ## 🖼️ 구성도
